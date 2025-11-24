@@ -25,7 +25,7 @@ const App: React.FC = () => {
 
   const handleToggleComplete = (taskId: string) => {
     if (!completedTasks[taskId]) {
-      const audio = new Audio('https://github.com/copperbleach/Course-Roadmap/raw/refs/heads/main/Dino%20Run%20Assets/bing-short.wav');
+      const audio = new Audio('https://github.com/copperbleach/Roadmap/raw/refs/heads/main/Dino%20Run%20Assets/bing-short.wav');
       audio.play();
     }
     setCompletedTasks(prev => ({
