@@ -2,27 +2,27 @@
 import { TaskType, Week } from './types';
 
 export const ASSET_URLS = {
-  road: 'https://raw.githubusercontent.com/copperbleach/Course-Roadmap/refs/heads/main/Dino%20Run%20Assets/Road.png',
-  player: 'https://raw.githubusercontent.com/copperbleach/Course-Roadmap/refs/heads/main/Dino%20Run%20Assets/Dino.png',
+  road: 'https://raw.githubusercontent.com/copperbleach/Roadmap/refs/heads/main/Dino%20Run%20Assets/Road.png',
+  player: 'https://raw.githubusercontent.com/copperbleach/Roadmap/refs/heads/main/Dino%20Run%20Assets/Dino.png',
   trophies: {
-    stone: 'https://raw.githubusercontent.com/copperbleach/Course-Roadmap/refs/heads/main/Dino%20Run%20Assets/Trophy-Stone.png',
-    bronze: 'https://raw.githubusercontent.com/copperbleach/Course-Roadmap/refs/heads/main/Dino%20Run%20Assets/Trophy-Bronze.png',
-    silver: 'https://raw.githubusercontent.com/copperbleach/Course-Roadmap/refs/heads/main/Dino%20Run%20Assets/Trophy-Silver.png',
-    gold: 'https://raw.githubusercontent.com/copperbleach/Course-Roadmap/refs/heads/main/Dino%20Run%20Assets/Trophy-Gold.png',
+    stone: 'https://raw.githubusercontent.com/copperbleach/Roadmap/refs/heads/main/Dino%20Run%20Assets/Trophy-Stone.png',
+    bronze: 'https://raw.githubusercontent.com/copperbleach/Roadmap/refs/heads/main/Dino%20Run%20Assets/Trophy-Bronze.png',
+    silver: 'https://raw.githubusercontent.com/copperbleach/Roadmap/refs/heads/main/Dino%20Run%20Assets/Trophy-Silver.png',
+    gold: 'https://raw.githubusercontent.com/copperbleach/Roadmap/refs/heads/main/Dino%20Run%20Assets/Trophy-Gold.png',
   },
   cactuses: [
-    'https://raw.githubusercontent.com/copperbleach/Course-Roadmap/refs/heads/main/Dino%20Run%20Assets/1.png',
-    'https://raw.githubusercontent.com/copperbleach/Course-Roadmap/refs/heads/main/Dino%20Run%20Assets/2.png',
-    'https://raw.githubusercontent.com/copperbleach/Course-Roadmap/refs/heads/main/Dino%20Run%20Assets/3.png',
-    'https://raw.githubusercontent.com/copperbleach/Course-Roadmap/refs/heads/main/Dino%20Run%20Assets/4.png',
-    'https://raw.githubusercontent.com/copperbleach/Course-Roadmap/refs/heads/main/Dino%20Run%20Assets/5.png',
-    'https://raw.githubusercontent.com/copperbleach/Course-Roadmap/refs/heads/main/Dino%20Run%20Assets/6.png',
+    'https://raw.githubusercontent.com/copperbleach/Roadmap/refs/heads/main/Dino%20Run%20Assets/1.png',
+    'https://raw.githubusercontent.com/copperbleach/Roadmap/refs/heads/main/Dino%20Run%20Assets/2.png',
+    'https://raw.githubusercontent.com/copperbleach/Roadmap/refs/heads/main/Dino%20Run%20Assets/3.png',
+    'https://raw.githubusercontent.com/copperbleach/Roadmap/refs/heads/main/Dino%20Run%20Assets/4.png',
+    'https://raw.githubusercontent.com/copperbleach/Roadmap/refs/heads/main/Dino%20Run%20Assets/5.png',
+    'https://raw.githubusercontent.com/copperbleach/Roadmap/refs/heads/main/Dino%20Run%20Assets/6.png',
   ],
   tasks: {
-    [TaskType.Discussion]: 'https://raw.githubusercontent.com/copperbleach/Course-Roadmap/refs/heads/main/Dino%20Run%20Assets/Coin.png',
-    [TaskType.Peer]: 'https://raw.githubusercontent.com/copperbleach/Course-Roadmap/refs/heads/main/Dino%20Run%20Assets/Star.png',
-    [TaskType.Assignment]: 'https://raw.githubusercontent.com/copperbleach/Course-Roadmap/refs/heads/main/Dino%20Run%20Assets/Gem.png',
-    [TaskType.Quiz]: 'https://raw.githubusercontent.com/copperbleach/Course-Roadmap/refs/heads/main/Dino%20Run%20Assets/Ham.png',
+    [TaskType.Discussion]: 'https://raw.githubusercontent.com/copperbleach/Roadmap/refs/heads/main/Dino%20Run%20Assets/Coin.png',
+    [TaskType.Peer]: 'https://raw.githubusercontent.com/copperbleach/Roadmap/refs/heads/main/Dino%20Run%20Assets/Star.png',
+    [TaskType.Assignment]: 'https://raw.githubusercontent.com/copperbleach/Roadmap/refs/heads/main/Dino%20Run%20Assets/Gem.png',
+    [TaskType.Quiz]: 'https://raw.githubusercontent.com/copperbleach/Roadmap/refs/heads/main/Dino%20Run%20Assets/Ham.png',
   },
 };
 
