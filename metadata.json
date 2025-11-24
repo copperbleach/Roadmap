@@ -1,0 +1,5 @@
+{
+  "name": "Unity Game Development Course Roadmap",
+  "description": "An interactive web roadmap for an online course on Unity Game Development, visualized as a side-scrolling game scene. Users can track their progress by completing tasks along the path.",
+  "requestFramePermissions": []
+}
